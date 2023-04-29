@@ -100,7 +100,7 @@ body{
 .black {
     width: 40px;
     background: linear-gradient(black, #333);
-    height: 150px;
+    height: 100px;
     border-radius: 0 0 5px 5px;
     border-bottom: 8px solid #222;
     margin-left: -20px;
@@ -126,7 +126,7 @@ body{
 .black--pressed {
     background: linear-gradient(#222, black);
     border-bottom: none;
-    height: 148px;
+    height: 98px;
 }
 
 .disabled-keys span {
