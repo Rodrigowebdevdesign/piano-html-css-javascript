@@ -4,3 +4,7 @@
 ## abaixo temos uma pequena demonstração do projeto (espero que gostem!! 😊)
 
 ![Alt text](Anima%C3%A7%C3%A3o2.gif)
+
+## ↓↓ DEPLOY ↓↓
+
+https://rodrigowebdevdesign.github.io/piano-html-css-javascript/
